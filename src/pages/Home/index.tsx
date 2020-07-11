@@ -12,7 +12,7 @@ interface Repository {
         login: string;
         avatar_url: string;
     };
-}
+};
 
 const Home: React.FC = () => {
     const [newRepository, setNewRepository] = useState('');
