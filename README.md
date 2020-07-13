@@ -1,39 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- Badges -->
+[![60+% TypeScript](https://img.shields.io/github/languages/top/guiribmedeiros/github-explorer?style=for-the-badge)](https://github.com/guiribmedeiros/github-explorer/search?l=typescript)
+[![License](https://img.shields.io/github/license/guiribmedeiros/github-explorer?style=for-the-badge)](./LICENSE.md)
+[![GitHub Issues](https://img.shields.io/github/issues/guiribmedeiros/github-explorer?style=for-the-badge)](https://github.com/guiribmedeiros/github-explorer/issues)
 
-## Available Scripts
+## About GitHub Explorer
 
-In the project directory, you can run:
+GitHub Explorer is an open-sourced web app. It is written in [TypeScript](http://www.typescriptlang.org) and
+uses [React](https://reactjs.org/).
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+First, let’s make sure that your development environment is ready.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- If you don’t have **Node.js** installed, [install it from here](https://nodejs.org/).
 
-### `npm run build`
+Then install the dependencies from your project’s `package.json` file by running the following command:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+npm install
+```
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Finally, after installing the dependencies, the `start` script starts your React "development server" on port 3000.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+npm start
+```
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+That’s it! :rocket:  
+If you have questions about GitHub Explorer, you can ask on [GitHub Issues](https://github.com/guiribmedeiros/github-explorer/issues).
