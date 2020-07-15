@@ -8,7 +8,7 @@
 
 GitHub Explorer is an application that helps [GitHub](https://github.com) users explore repositories easily. This project was developed for research and testing purposes. GitHub Explorer facilitates the repositories discovery by tracking then and their open issues practically, see more:
 
-- Try it at [Live Example](https://github-explorer.guiribmedeiros.io).
+- Try it at a [Live Example](https://github-explorer.guiribmedeiros.io).
 
 GitHub Explorer is an open-sourced web app. It is written in [TypeScript](http://www.typescriptlang.org) and
 uses [React](https://reactjs.org/).
