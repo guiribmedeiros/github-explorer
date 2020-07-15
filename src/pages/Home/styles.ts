@@ -32,7 +32,7 @@ export const Form = styled.form<FormProps>`
         `}
 
         &::placeholder {
-            color: #A8A8b3;
+            color: #A8A8B3;
         }
     }
 

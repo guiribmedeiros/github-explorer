@@ -1,3 +1,6 @@
+<!-- Cover -->
+[![Cover](./.github/assets/cover.svg)](https://github-explorer.guiribmedeiros.io)
+
 <!-- Badges -->
 [![60+% TypeScript](https://img.shields.io/github/languages/top/guiribmedeiros/github-explorer?style=for-the-badge)](https://github.com/guiribmedeiros/github-explorer/search?l=typescript)
 [![License](https://img.shields.io/github/license/guiribmedeiros/github-explorer?style=for-the-badge)](./LICENSE.md)
@@ -6,7 +9,10 @@
 
 ## About GitHub Explorer
 
-GitHub Explorer is an application that helps [GitHub](https://github.com) users explore repositories easily. This project was developed for research and testing purposes. GitHub Explorer facilitates the repositories discovery by tracking then and their open issues practically.
+GitHub Explorer is an application that helps [GitHub](https://github.com) users explore repositories easily. This project was developed for research and testing purposes. GitHub Explorer facilitates the repositories discovery by tracking then and their open issues practically, see more:
+
+- Designs are available at [Figma](https://www.figma.com/file/AtPzAD4RGANDSctJ8Q5iNV/GitHub-Explorer).
+- Check the [Live Demo](https://github-explorer.guiribmedeiros.io).
 
 GitHub Explorer is an open-sourced web app. It is written in [TypeScript](http://www.typescriptlang.org) and
 uses [React](https://reactjs.org/).
