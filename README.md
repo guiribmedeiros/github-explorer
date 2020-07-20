@@ -1,8 +1,8 @@
 <!-- Badges -->
+
 [![60+% TypeScript](https://img.shields.io/github/languages/top/guiribmedeiros/github-explorer?style=for-the-badge)](https://github.com/guiribmedeiros/github-explorer/search?l=typescript)
 [![License](https://img.shields.io/github/license/guiribmedeiros/github-explorer?style=for-the-badge)](./LICENSE.md)
 [![Open Issues](https://img.shields.io/github/issues/guiribmedeiros/github-explorer?style=for-the-badge)](https://github.com/guiribmedeiros/github-explorer/issues)
-![Workflow](https://img.shields.io/github/workflow/status/guiribmedeiros/github-explorer/CI?style=for-the-badge)
 
 ## About GitHub Explorer
 
