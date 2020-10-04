@@ -5,7 +5,7 @@
 
 ## About GitHub Explorer
 
-GitHub Explorer is an application that helps [GitHub](https://github.com) users explore repositories easily. This project was developed for personal research and testing purposes. GitHub Explorer facilitates the repositories discovery by tracking then and their open issues practically, see more:
+GitHub Explorer is an application that helps GitHub users explore repositories easily. This project was developed for personal research and testing purposes with the [GitHub API](https://docs.github.com/en/free-pro-team@latest/rest) by [@github](https://github.com/github). GitHub Explorer facilitates the repositories discovery by tracking then and their open issues practically, see more:
 
 - Try it at a [Live Example](https://github-explorer.guiribmedeiros.io).
 
